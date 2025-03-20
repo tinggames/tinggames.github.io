@@ -759,6 +759,7 @@ google.com, pub-9659100625006129, DIRECT, f08c47fec0942fa0
 google.com, pub-4844703270859401, DIRECT, f08c47fec0942fa0
 google.com, pub-7137699734922870, DIRECT, f08c47fec0942fa0
 google.com, pub-5365378381587512, DIRECT, f08c47fec0942fa0
+google.com, pub-6355070686471133, DIRECT, f08c47fec0942fa0    #PTS87
 
 #Unity
 unity.com, 13003, DIRECT, 96cabb5fbdde37a7
