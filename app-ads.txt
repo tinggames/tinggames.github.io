@@ -45,7 +45,8 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 
 #Facebook/Meta
-facebook.com, 1214554325932093, DIRECT, 5b94c24bcd7d49df  
+facebook.com, 1214554325932093, DIRECT, 5b94c24bcd7d49df 
+facebook.com, 640757696343666, DIRECT, c3e20eee3f780d68
 
 #Ironsource
 ironsrc.com, 368981, DIRECT  #ironSrc acc PTS87
