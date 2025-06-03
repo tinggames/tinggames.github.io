@@ -413,4 +413,8 @@ xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 iqzone.com, IQ97, RESELLER
 
 
+facebook.com, 1072252011440133, RESELLER, c3e20eee3f780d68
+facebook.com, 2239898259801502, RESELLER, c3e20eee3f780d68
+
+
 #################### End TiNg Games ######################
