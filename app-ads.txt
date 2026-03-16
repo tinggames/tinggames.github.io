@@ -766,7 +766,8 @@ auxoads.com, 12125, RESELLER
 facebook.com, 640757696343666, DIRECT, c3e20eee3f780d68
 
 #ironSource
-ironsrc.com, 368981, DIRECT	#ironSource PTS87
+ironsrc.com, 368981, DIRECT
+ironsrc.com, 592847, DIRECT
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
